@@ -21,7 +21,7 @@
     "split": {
         "enabled": true,
         "serial": {
-            "pin": "D2"
+            "pin": "D3"
         },
         "transport": {
             "sync": {
@@ -30,7 +30,7 @@
         }
     },
     "ws2812": {
-        "pin": "D3"
+        "pin": "D2"
     },
     "rgblight": {
         "led_count": 72,
